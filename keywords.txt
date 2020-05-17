@@ -7,21 +7,21 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-SmartDial                      KEYWORD1
+SmartDial	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-getPosition                    KEYWORD2
-center                         KEYWORD2
-reset                          KEYWORD2
-setAddress                     KEYWORD2
-setPosition                    KEYWORD2
-isButtonPressed                KEYWORD2
-getStates                      KEYWORD2
-getVersion                     KEYWORD2
-setBottomLimit                 KEYWORD2
-setTopLimit                    KEYWORD2
+getPosition	KEYWORD2
+center	KEYWORD2
+reset	KEYWORD2
+setAddress	KEYWORD2
+setPosition	KEYWORD2
+isButtonPressed	KEYWORD2
+getStates	KEYWORD2
+getVersion	KEYWORD2
+setBottomLimit	KEYWORD2
+setTopLimit	KEYWORD2
 
 
 #######################################
